@@ -1,0 +1,22 @@
+Halaman Login
+- id user
+- email
+- password
+
+halaman stock
+- id barang
+- nama barang
+- stock barang
+- deskripsi barang
+
+halaman masuk:
+- id masuk
+- id barang
+- tanggal masuk
+- keterangan
+
+halaman keluar 
+- id keluar
+- id barnag
+- tanggal keluar
+- penerima
